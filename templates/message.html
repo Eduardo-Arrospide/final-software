@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<head>
+    <title>Messages</title>
+</head>
+<body>
+    <h1>Insert a new message: </h1>
+    <form method="POST" enctype="multipart/form-data"> 
+        <label for="message">Message: </label><br><br>
+        <input type="text" name="message" id="message"><br><br>
+        <label for="topic">Topic: </label><br><br>
+        <input type="text" name="topic" id="topic">
+        <input type="submit" value="Post">
+    </form> 
+    <h1>Insert a topic to get all messages related: </h1>
+    <form method="POST" enctype="multipart/form-data">
+        <input type="text" name="get_topic" id="get_topic">
+        <input type="submit" value="Get">
+    </form>
+</body>

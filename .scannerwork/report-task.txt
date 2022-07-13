@@ -1,0 +1,7 @@
+organization=eduardo-arrospide
+projectKey=Eduardo-Arrospide_final-software
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.30222
+dashboardUrl=https://sonarcloud.io/dashboard?id=Eduardo-Arrospide_final-software
+ceTaskId=AYH1dFOvbwK7-3OtTuSj
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AYH1dFOvbwK7-3OtTuSj
